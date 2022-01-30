@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "web3": "1.7.0",
-    "simple-get": ">=4.0.1"
+    "simple-concat": "1.0.1"
   },
   "devDependencies": {
     "prettier": "2.5.1"
